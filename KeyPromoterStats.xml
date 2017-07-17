@@ -2,6 +2,7 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
+        <entry key="'Ctrl+Alt+Y'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="1" />
         <entry key="'Shift+F6'" value="1" />
