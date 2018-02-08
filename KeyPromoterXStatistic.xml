@@ -9,11 +9,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'All Tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'All Tests'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Select In...">
         <Item>
           <IdeaActionID>SelectIn</IdeaActionID>
           <ShortCut>'Alt+F1'</ShortCut>
           <Description>Select In...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'API Routes.[POST] /wallets - should get status 500 with message on error'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'API Routes.[POST] /wallets - should get status 500 with message on error'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
