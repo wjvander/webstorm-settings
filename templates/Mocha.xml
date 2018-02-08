@@ -1,0 +1,6 @@
+<templateSet group="Mocha">
+  <template name="mocfile" value="const expect = require('chai').expect;&#10;&#10;describe('$unitDescription$', ()=&gt;{&#10;    beforeEach(()=&gt;{&#10;    });&#10;    &#10;    afterEach(()=&gt;{&#10;    });&#10;    &#10;    it('$scenarioDescription$', ()=&gt;{&#10;        $END$&#10;    });&#10;});" description="Mocha Test File Scaffold" toReformat="true" toShortenFQNames="true">
+    <variable name="unitDescription" expression="Some Unit Under Test" defaultValue="" alwaysStopAt="true" />
+    <variable name="scenarioDescription" expression="should do something" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
