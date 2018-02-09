@@ -14,7 +14,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Select In...">
@@ -30,6 +30,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'API Routes.[POST] /wallets - should get status 500 with message on error'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Wallet Aggregate.Wallet Create.should return CreatedWallet event upon create'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Wallet Aggregate.Wallet Create.should return CreatedWallet event upon create'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
