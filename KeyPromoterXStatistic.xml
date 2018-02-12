@@ -70,7 +70,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Statement Service.should generate a Statement if Invoices or Credit Notes'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Wallet Aggregate.Reverse Charges.should return [ReversedCharge, ReversedFundsReservation] when reversing a Reserved Unfunded charge'">
