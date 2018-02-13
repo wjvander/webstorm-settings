@@ -24,6 +24,14 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/react" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/reactstrap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/sinon" type="javaScript">
       <CLASSES />
       <SOURCES />
