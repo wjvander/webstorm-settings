@@ -57,6 +57,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'script.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'script.js'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Select In...">
         <Item>
           <IdeaActionID>SelectIn</IdeaActionID>
@@ -103,6 +111,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Wallet Aggregate.Wallet Create.should return CreatedWallet event upon create'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'script.js'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'script.js'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
