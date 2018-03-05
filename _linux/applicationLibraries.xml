@@ -16,6 +16,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/cron" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mocha" type="javaScript">
       <CLASSES />
       <SOURCES />
