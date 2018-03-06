@@ -81,6 +81,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'pipeline.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'pipeline.js'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'script.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
