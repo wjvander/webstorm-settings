@@ -24,6 +24,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/lowdb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/mocha" type="javaScript">
       <CLASSES />
       <SOURCES />
