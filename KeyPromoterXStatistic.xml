@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Dashboard Debug'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Dashboard Debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'server.js'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -223,6 +231,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Charges For Period Query.it should return a charge if is within a period'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Dashboard Debug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Dashboard Debug'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Import Service State Repository.should return 43524330 if no previous state'">
