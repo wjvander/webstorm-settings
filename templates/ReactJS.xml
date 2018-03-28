@@ -90,7 +90,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwr" value="componentWillReceiveProps(nextProps, nextContext) {&#10;  $END$&#10;}&#10;" description="React: componentWillReceiveProps" toReformat="true" toShortenFQNames="true">
+  <template name="cwr" value="componentWillReceiveProps(nextProps) {&#10;  $END$&#10;}&#10;" description="React: componentWillReceiveProps" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -100,7 +100,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cwu" value="componentWillUpdate(nextProps, nextState, nextContext) {&#10;  $END$&#10;}&#10;" description="React: componentWillUpdate" toReformat="true" toShortenFQNames="true">
+  <template name="cwu" value="componentWillUpdate(nextProps) {&#10;  $END$&#10;}&#10;" description="React: componentWillUpdate" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
