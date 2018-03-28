@@ -1,0 +1,44 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/chai" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-http" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-subset" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/chai-things" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/cron" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/knex" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/lowdb" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/mocha-steps" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/sinon" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
