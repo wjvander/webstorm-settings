@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".prettier" type="JSON" />
       <mapping pattern="ajkldshf" type="PLAIN_TEXT" />
       <mapping pattern="ContractInformation" type="TypeScript JSX" />
     </extensionMap>
