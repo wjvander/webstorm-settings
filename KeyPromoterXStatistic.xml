@@ -145,6 +145,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'api-generator'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'api-generator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'pipeline.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>

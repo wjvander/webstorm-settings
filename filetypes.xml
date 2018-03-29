@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".prettier" type="JSON" />
-      <mapping pattern="ajkldshf" type="PLAIN_TEXT" />
+      <mapping pattern="api-generator" type="JavaScript" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern="ajkldshf" type="PLAIN_TEXT" />
       <mapping pattern="ContractInformation" type="TypeScript JSX" />
     </extensionMap>
   </component>
