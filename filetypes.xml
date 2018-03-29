@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".prettier" type="JSON" />
       <mapping pattern="ajkldshf" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="ContractInformation" type="TypeScript JSX" />
     </extensionMap>
   </component>
