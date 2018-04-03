@@ -20,6 +20,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/cucumber" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/knex" type="javaScript">
       <CLASSES />
       <SOURCES />
