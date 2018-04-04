@@ -134,7 +134,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -151,6 +151,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All Tests'</Description>
           <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Scenario: Add a Scal...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Scenario: Add a Scal...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'api-generator'">
