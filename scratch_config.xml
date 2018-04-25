@@ -5,6 +5,7 @@
       <list>
         <option value="scratch.xml" />
         <option value="scratch.md" />
+        <option value="scratch.css" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
