@@ -1,0 +1,21 @@
+<templateSet group="Mocha">
+  <template name="mocfile" value="const chai = require('chai');&#10;const expect = chai.expect;&#10;&#10;describe('$TESTDESCRIPTION$', ()=&gt;{&#10;    it('$SCENARIODESCRIPTION$', ()=&gt;{&#10;        $END$&#10;    });&#10;});" description="Mocha Chai Test Template" toReformat="true" toShortenFQNames="true">
+    <variable name="TESTDESCRIPTION" expression="&quot;Test Description&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="SCENARIODESCRIPTION" expression="&quot;it should do something&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mocit" value="it('$SCENARIODESCRIPTION$', ()=&gt;{&#10;    $END$&#10;});" description="Mocha 'it'" toReformat="true" toShortenFQNames="true">
+    <variable name="SCENARIODESCRIPTION" expression="&quot;it should do something&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mocdesc" value="describe('$DESCRIBE$', ()=&gt;{&#10;    $END$&#10;});" description="Mocha 'describe'" toReformat="true" toShortenFQNames="true">
+    <variable name="DESCRIBE" expression="&quot;DESCRIPTION&quot;" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
