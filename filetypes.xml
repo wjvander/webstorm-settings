@@ -1,11 +1,12 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".prettier" type="JSON" />
       <mapping pattern="api-generator" type="JavaScript" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="ajkldshf" type="PLAIN_TEXT" />
       <mapping pattern="ContractInformation" type="TypeScript JSX" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
